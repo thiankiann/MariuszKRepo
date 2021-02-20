@@ -8,6 +8,7 @@ public class JavaLondek4SpringDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JavaLondek4SpringDemoApplication.class, args);
+
     }
 
 }
